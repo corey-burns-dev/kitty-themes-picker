@@ -1,5 +1,7 @@
 # Kitty Theme Picker
 
+![Kitty Theme Picker logo](logo.png)
+
 A curated collection of Kitty terminal color schemes bundled with a small overlay picker. Quickly preview and switch themes without leaving the keyboard.
 
 ## Features
